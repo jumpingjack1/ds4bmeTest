@@ -1,2 +1,2 @@
-# ds4bmeTest
-Tasks 3 and 4 of assignment 1
+
+Editing this readme file and will push the changes back up to my repo.
